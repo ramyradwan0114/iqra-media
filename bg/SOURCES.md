@@ -1,0 +1,50 @@
+# مصادر الخلفيات (Wikimedia Commons)
+
+- sky-01: Qvidemus · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Nosal_i_widok_na_Tatry.jpg
+- sky-02: semeion.photo Credit: NASA/JPL-C… · CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Carbon_dioxide_clouds_over_Mont_Mercou,_Curiosity_Sol_3063_(53100058892).jpg
+- sky-03: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Quill-shaped_cirrus_cloud.jpg
+- sky-04: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Thunder_cloud_over_G%C3%A5seberg.jpg
+- sky-05: Agnes Monkelbaan · CC0 — https://commons.wikimedia.org/wiki/File:Scuol-Motta_Naluns,_15-09-2023._(actm.)_09.jpg
+- sky-06: Bureau of Land Management - Utah… · PD — https://commons.wikimedia.org/wiki/File:Utah_Dunes_Landscape_-_West_Desert_District.jpg
+- mountains-01: Cj.samson · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Bali_Khila_Rajgad_Maharashtra.jpg
+- mountains-02: Vyacheslav Argenberg · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Caucasus,_Ingushetia,_%D0%98%D0%BD%D0%B3%D1%83%D1%88%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B0%D1%88%D0%BD%D0%B8_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5,_%D0%B3%D0%BE%D1%80%D1%8B_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D0%B0.jpg
+- mountains-03: Vyacheslav Argenberg · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Ingushetia,_Russia,_Armkhi,_Ingush_tower.jpg
+- mountains-04: Jakub Hałun · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg
+- mountains-05: Rainer Lippert · PD — https://commons.wikimedia.org/wiki/File:Lindenstumpf,_Panorama,_2.jpg
+- mountains-06: Ross Fowler from Sydney, Australia · CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Matanuska-Susitna_Borough,_Alaska.jpg
+- water-01: Christian Ferrer · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Building_of_the_Salins_de_Frontignan_14.jpg
+- water-02: Vyacheslav Argenberg · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg
+- water-03: Tournasol7 · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Lac_du_Miey_(5).jpg
+- water-04: Tournasol7 · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Lac_Roumassot_(2).jpg
+- water-05: Kenny Muir · CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake,_Iceland.jpg
+- water-06: Christian Ferrer · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:La_Roque,_Salagou_Lake_01.jpg
+- forest-01: George Chernilevsky · PD — https://commons.wikimedia.org/wiki/File:Birchwood_Slavnoe_2012_G1.jpg
+- forest-02: George Chernilevsky · PD — https://commons.wikimedia.org/wiki/File:Snowy_road_Sosonka_2013_G1.jpg
+- forest-03: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Spruce_forest_at_Holma.jpg
+- forest-04: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg
+- forest-05: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Bilberry_bush_and_moss_in_Gullmarsskogen_ravine.jpg
+- flowers-01: Bilby · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Victoria_amazonica_03.jpg
+- flowers-02: W.carter · CC0 — https://commons.wikimedia.org/wiki/File:Wild_angelica_-_before_blooming.jpg
+- flowers-03: George Chernilevsky · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Dipsacus_fullonum_2026_G1.jpg
+- flowers-04: George Chernilevsky · PD — https://commons.wikimedia.org/wiki/File:Lupinus_polyphyllus_UA_2015_G5.jpg
+- mosques-01: Bernard Gagnon · CC0 — https://commons.wikimedia.org/wiki/File:Shadirvan_of_the_Bayezid_II_Mosque.jpg
+- night-01: NASA, ESA, M. Robberto (Space Te… · PD — https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg
+- night-02: NASA, ESA and the Hubble Heritag… · PD — https://commons.wikimedia.org/wiki/File:Messier_81_HST.jpg
+- night-03: NASA, ESA, and The Hubble Herita… · PD — https://commons.wikimedia.org/wiki/File:Fairy_of_Eagle_Nebula.jpg
+- night-04: ESO/IDA/Danish 1.5 m/R.Gendler, … · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:ESO_-_The_Carina_Nebula_(by).jpg
+- night-05: NASA/JPL-Caltech · PD — https://commons.wikimedia.org/wiki/File:W5_cropped.jpg
+- night-06: NASA, ESA and the Hubble SM4 ERO… · PD — https://commons.wikimedia.org/wiki/File:NGC_6302_Hubble_2009.full.jpg
+- desert-01: Marc Ryckaert (MJJR) · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:GC_Dunas_de_Maspalomas_R04.jpg
+- desert-02: Ted.ns · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8F.jpg
+- desert-03: Stephan Sprinz · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg
+- desert-04: Carol M. Highsmith · PD — https://commons.wikimedia.org/wiki/File:Imperial_Sand_Dunes2C_Southeastern_California_LCCN2013630449.jpg
+- desert-05: Meshari Alawfi · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Sand_Dunes_sa.jpg
+- mosques-02: Berthold Werner · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_5.jpg
+- mosques-03: Berthold Werner · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_7.jpg
+- mosques-04: Terki hassaine samir · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Mosa%C3%AFque_Fa%C3%A7ade_de_la_porte_de_la_mosqu%C3%A9e_de_Sidi_El-Haloui,_Tlemcen.jpg
+- mosques-05: sam garza from Los Angeles, USA · CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg
+- mosques-06: Phillip Maiwald Nikopol · CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Sheikh-Lotf-Allah_mosque_wall_and_ceiling.jpg
+- mosques-07: Bgag · CC0 — https://commons.wikimedia.org/wiki/File:Minaret_of_Hazrati_Imam_Mosque_01.jpg
+- mosques-08: Bgag · CC0 — https://commons.wikimedia.org/wiki/File:Minaret_of_Bibi-Khanym_Mosque_01.jpg
+- mosques-09: Bgag · CC0 — https://commons.wikimedia.org/wiki/File:Northern_dome_of_Bibi-Khanym_Mosque_01.jpg
+- mosques-10: Bernard Gagnon · CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Shirvanshahs_Palace_Mosque_02.jpg
