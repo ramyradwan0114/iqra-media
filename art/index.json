@@ -1,0 +1,6 @@
+[
+ {"id": "tree", "title": "الشجرة الطيبة", "icon": "🌳", "surah": 14, "ayah": 24, "ref": "إبراهيم ٢٤", "video": "art-tree-reel.mp4", "thumb": "art-tree.jpg", "date": "2026-10-28"},
+ {"id": "ship", "title": "السفينة", "icon": "⛵", "surah": 11, "ayah": 41, "ref": "هود ٤١", "video": "art-ship-reel.mp4", "thumb": "art-ship.jpg", "date": "2026-10-28"},
+ {"id": "whale", "title": "في الظلمات", "icon": "🐋", "surah": 21, "ayah": 87, "ref": "الأنبياء ٨٧", "video": "art-whale-reel.mp4", "thumb": "art-whale.jpg", "date": "2026-10-28"},
+ {"id": "palm", "title": "النخلة", "icon": "🌴", "surah": 19, "ayah": 25, "ref": "مريم ٢٥", "video": "art-palm-reel.mp4", "thumb": "art-palm.jpg", "date": "2026-10-28"}
+]
