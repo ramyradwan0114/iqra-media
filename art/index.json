@@ -1,6 +1,6 @@
 [
- {"id": "tree", "title": "الشجرة الطيبة", "icon": "🌳", "surah": 14, "ayah": 24, "ref": "إبراهيم ٢٤", "video": "art-tree-reel.mp4", "thumb": "art-tree.jpg", "date": "2026-10-28"},
- {"id": "ship", "title": "السفينة", "icon": "⛵", "surah": 11, "ayah": 41, "ref": "هود ٤١", "video": "art-ship-reel.mp4", "thumb": "art-ship.jpg", "date": "2026-10-28"},
- {"id": "whale", "title": "في الظلمات", "icon": "🐋", "surah": 21, "ayah": 87, "ref": "الأنبياء ٨٧", "video": "art-whale-reel.mp4", "thumb": "art-whale.jpg", "date": "2026-10-28"},
- {"id": "palm", "title": "النخلة", "icon": "🌴", "surah": 19, "ayah": 25, "ref": "مريم ٢٥", "video": "art-palm-reel.mp4", "thumb": "art-palm.jpg", "date": "2026-10-28"}
+ {"id": "tree", "title": "الشجرة الطيبة", "icon": "🌳", "surah": 14, "ayah": 24, "ref": "إبراهيم ٢٤", "video": "art-tree-reel.mp4", "thumb": "art-tree.jpg", "date": "2026-10-28", "videos": {"7": "art-tree-reel.mp4", "2": "art-tree-r2-reel.mp4", "9": "art-tree-r9-reel.mp4", "6": "art-tree-r6-reel.mp4"}},
+ {"id": "ship", "title": "السفينة", "icon": "⛵", "surah": 11, "ayah": 41, "ref": "هود ٤١", "video": "art-ship-reel.mp4", "thumb": "art-ship.jpg", "date": "2026-10-28", "videos": {"7": "art-ship-reel.mp4", "2": "art-ship-r2-reel.mp4", "9": "art-ship-r9-reel.mp4", "6": "art-ship-r6-reel.mp4"}},
+ {"id": "whale", "title": "في الظلمات", "icon": "🐋", "surah": 21, "ayah": 87, "ref": "الأنبياء ٨٧", "video": "art-whale-reel.mp4", "thumb": "art-whale.jpg", "date": "2026-10-28", "videos": {"7": "art-whale-reel.mp4", "9": "art-whale-r9-reel.mp4", "6": "art-whale-r6-reel.mp4"}},
+ {"id": "palm", "title": "النخلة", "icon": "🌴", "surah": 19, "ayah": 25, "ref": "مريم ٢٥", "video": "art-palm-reel.mp4", "thumb": "art-palm.jpg", "date": "2026-10-28", "videos": {"7": "art-palm-reel.mp4", "2": "art-palm-r2-reel.mp4", "9": "art-palm-r9-reel.mp4", "6": "art-palm-r6-reel.mp4"}}
 ]
