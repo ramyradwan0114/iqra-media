@@ -1,5 +1,39 @@
 [
  {
+  "id": "elephant",
+  "title": "الفيل",
+  "icon": "🐘",
+  "surah": 105,
+  "ayah": 1,
+  "ref": "﴿ الفيل : ١ ﴾",
+  "video": "art-elephant-reel.mp4",
+  "thumb": "art-elephant.jpg",
+  "date": "2026-11-26",
+  "videos": {
+   "7": "art-elephant-reel.mp4",
+   "2": "art-elephant-r2-reel.mp4",
+   "9": "art-elephant-r9-reel.mp4",
+   "6": "art-elephant-r6-reel.mp4"
+  }
+ },
+ {
+  "id": "camel",
+  "title": "الإبل",
+  "icon": "🐪",
+  "surah": 88,
+  "ayah": 17,
+  "ref": "﴿ الغاشية : ١٧ ﴾",
+  "video": "art-camel-reel.mp4",
+  "thumb": "art-camel.jpg",
+  "date": "2026-11-26",
+  "videos": {
+   "7": "art-camel-reel.mp4",
+   "2": "art-camel-r2-reel.mp4",
+   "9": "art-camel-r9-reel.mp4",
+   "6": "art-camel-r6-reel.mp4"
+  }
+ },
+ {
   "id": "qalam",
   "title": "القلم",
   "icon": "pen",
